@@ -1,9 +1,0 @@
-README.md
-setup.py
-ZWTKINTER/ZWTKINTER.py
-ZWTKINTER/__init__.py
-ZWTKINTER.egg-info/PKG-INFO
-ZWTKINTER.egg-info/SOURCES.txt
-ZWTKINTER.egg-info/dependency_links.txt
-ZWTKINTER.egg-info/requires.txt
-ZWTKINTER.egg-info/top_level.txt
