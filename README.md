@@ -138,6 +138,6 @@ Copyright (c) 2023 ZWTK开发团队
 
 ---
 
-[📖 完整文档](https://zwtk.org/docs) | 
+[📖 完整文档](https://zwtkinter.my) | 
 [🐞 问题反馈](https://github.com/zwtk/issues) | 
 [💬 讨论区](https://github.com/zwtk/discussions)
