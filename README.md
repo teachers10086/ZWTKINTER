@@ -140,4 +140,4 @@ Copyright (c) 2023 ZWTKINTER开发团队
 
 [📖 完整文档](https://zwtkinter.my) | 
 [🐞 问题反馈](https://github.com/teachers10086/ZWTKINTER/issues) | 
-[💬 讨论区](https://github.com/zwtkinter/discussions)
+[💬 讨论区](https://github.com/teachers10086/ZWTKINTER/discussions)
