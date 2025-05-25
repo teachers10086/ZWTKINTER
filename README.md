@@ -111,7 +111,6 @@ from ZWTKINTER import *
 
 ## 🛠️ 项目结构
 <pre>
-```
 ZWTKINTER/
 ├── core/              # 核心模块
 │   ├── window.py      # 窗口管理
@@ -125,7 +124,6 @@ ZWTKINTER/
 ├── examples/          # 示例程序
 ├── docs/              # 文档
 └── tests/             # 测试用例
-```
 </pre>
 
 ## 🤝 参与贡献
