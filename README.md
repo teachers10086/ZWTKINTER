@@ -2,8 +2,8 @@
 
 ![Python版本](https://img.shields.io/badge/python-3.6%2B-blue)
 ![授权协议](https://img.shields.io/badge/license-MIT-green)
-![PyPI版本](https://img.shields.io/pypi/v/ZWTK)
-![下载量](https://img.shields.io/pypi/dm/ZWTK)
+![PyPI版本](https://img.shields.io/pypi/v/ZWTKINTER)
+![下载量](https://img.shields.io/pypi/dm/ZWTKINTER)
 
 **让Python GUI开发更简单直观的中文框架**
 
@@ -12,7 +12,7 @@
 ## 📦 安装
 
 ```bash
-pip install ZWTK
+pip install ZWTKINTER
 ```
 
 ## 🎯 特性
@@ -34,7 +34,7 @@ pip install ZWTK
 ## 🚀 快速开始
 
 ```python
-from ZWTK import *
+from ZWTKINTER import *
 
 # 初始化应用
 应用 = 初始化()
@@ -110,7 +110,7 @@ from ZWTK import *
 ```
 
 ## 🛠️ 项目结构
-ZWTK/
+ZWTKINTER/
 ├── core/ # 核心模块
 │ ├── window.py # 窗口管理
 │ ├── layout.py # 布局系统
@@ -134,10 +134,10 @@ ZWTK/
 ## 📜 开源协议
 
 本项目采用 [MIT License](LICENSE)  
-Copyright (c) 2023 ZWTK开发团队
+Copyright (c) 2023 ZWTKINTER开发团队
 
 ---
 
 [📖 完整文档](https://zwtkinter.my) | 
-[🐞 问题反馈](https://github.com/zwtk/issues) | 
-[💬 讨论区](https://github.com/zwtk/discussions)
+[🐞 问题反馈](https://github.com/zwtkinter/issues) | 
+[💬 讨论区](https://github.com/zwtkinter/discussions)
